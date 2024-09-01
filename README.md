@@ -1,2 +1,2 @@
 # Biblioteca-Python
-Um sistema de biblioteca, utilizando Python e MongDB
+Um sistema de biblioteca, utilizando Python e MongoDB
